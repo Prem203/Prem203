@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://wsrv.nl/?url=raw.githubusercontent.com%2FPrem203%2FPrem203%2Fmain%2FIMG_3785.jpeg&amp;cx=425&amp;cy=450&amp;cw=620&amp;ch=620&amp;precrop&amp;w=400&amp;h=400&amp;fit=cover&amp;mask=circle&amp;output=png" alt="Prem Vora" width="170" />
-</p>
-
 <h1 align="center">Hey, I'm Prem Vora 👋</h1>
 
 <p align="center"><strong>Software Engineer | Backend Engineering | Full Stack Development | Cloud</strong></p>
