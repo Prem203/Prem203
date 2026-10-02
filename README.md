@@ -46,7 +46,7 @@ I build software that makes complex workflows simpler, from backend APIs and dis
 ### Currently
 
 - Building automation and backend services at **POS360 Inc.**
-- Improving project documentation, demos, and my developer portfolio
+- Exploring applied AI, system design, and performance optimization through hands-on projects
 - Deepening my work in cloud infrastructure and backend systems
 
 ---
