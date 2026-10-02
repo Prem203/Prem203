@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./prem_headshot_circle.png" alt="Prem Vora" width="170" />
+  <img src="./prem_headshot_circle.webp" alt="Prem Vora" width="170" />
 </p>
 
 <h1 align="center">Hey, I'm Prem Vora 👋</h1>
